@@ -19,7 +19,7 @@ https://cellohh.github.io/knight-man/
 - ![Gameplay](screenshot.png)
 
 - Credits:
-- Character assets -
+Character assets -
 https://zerie.itch.io/tiny-rpg-character-asset-pack/download/eyJpZCI6MjY2MTkyOSwiZXhwaXJlcyI6MTc2NTQ2NzUxOX0%3d.5amVyHj20R5M7OiIT2mlhtIB7do%3d
 
 Sounds - 
