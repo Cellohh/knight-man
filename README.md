@@ -15,3 +15,5 @@ https://cellohh.github.io/knight-man/
 - Multiple enemies
 - Particle effects
 - Cheater vs Legit endings
+
+- ![Gameplay](screenshot.png)
